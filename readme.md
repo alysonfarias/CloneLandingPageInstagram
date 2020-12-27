@@ -4,8 +4,8 @@
 
 ###### 																	   On Cellphone
 
-![celularresponsivo](C:\Users\Pichau\Desktop\clone Landing Page Instagram\celularresponsivo.JPG)
+![celularresponsivo](https://github.com/alysonfarias/CloneLandingPageInstagram/blob/master/celularresponsivo.JPG)
 
 ###### 																		On Desktop
 
-###### ![siteresponsivo](C:\Users\Pichau\Desktop\clone Landing Page Instagram\siteresponsivo.JPG)
+###### ![siteresponsivo](https://github.com/alysonfarias/CloneLandingPageInstagram/blob/master/siteresponsivo.JPG)
